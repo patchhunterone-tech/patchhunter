@@ -1,0 +1,1051 @@
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="">
+<head>
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-NMRW4PS"></script>
+<!--[if gt IE 9]><!-->
+<script>//common/scripts.isml</script>
+<script defer type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/js/main.js"></script>
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/js/addressChecker.js"
+            
+            >
+        </script>
+    
+
+
+<!--<![endif]-->
+<!-- dwMarker="linclude" dwTemplateTitle="/default//common/htmlHead.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//common/htmlHead.isml" -->
+<meta charset=UTF-8>
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+
+
+<title>Check to See if Quantum Fiber is Available at Your Address!</title>
+
+
+
+    <link rel="canonical" href="https://www.quantumfiber.com/shop/" />
+
+<meta name="description" content="Verify your address, to see if Quantum Fiber is available at your location."/>
+
+
+
+
+
+
+<meta name="title" property="og:title" content="Check to See if Quantum Fiber is Available at Your Address!">
+<meta name="image" property="og:image" content="/on/demandware.static/Sites-QFCC-Site/-/default/dwf4f9c86a/images/qf/Quantum-Fiber-Logo.png">
+
+
+
+
+
+
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-QFCC-Site/-/default/dw501f2146/images/favicons/qf-favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-QFCC-Site/-/default/dw60d37804/images/favicons/qf-favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-QFCC-Site/-/default/dw056f2747/images/favicons/qf-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-QFCC-Site/-/default/dw4900a948/images/favicons/qf-favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-QFCC-Site/-/default/dwe7300c25/images/favicons/qf-favicon-128x128.png" sizes="128x128" />
+
+<link rel="stylesheet" href="https://use.typekit.net/oyj0okb.css" />
+<link rel="stylesheet" href="https://use.typekit.net/lvm7clc.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/css/global.css" />
+
+    <link rel="stylesheet" href="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/css/address-check.css"  />
+
+
+
+
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default/common/datalayer.isml (plugin_custom_gtm)" dwTemplateURL="http://localhost:60606/target=/plugin_custom_gtm/cartridge/templates/default/common/datalayer.isml" -->
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default//gtm.isml (plugin_custom_gtm)" dwTemplateURL="http://localhost:60606/target=/plugin_custom_gtm/cartridge/templates/default//gtm.isml" -->
+
+<script>
+window.dataLayer = window.dataLayer || [];
+</script>
+
+
+
+
+ 
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=-XnMxiAsbQZwfGq4CmPQRg&gtm_preview=env-720&gtm_cookies_win=x';f.parentNode.insertBefore(j,f); 
+
+})(window,document,'script','dataLayer','GTM-TGBJN5RR');</script> 
+
+
+            
+ 
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=uFGQW_1dYcWsiFKmayzKAw&gtm_preview=env-44&gtm_cookies_win=x';f.parentNode.insertBefore(j,f); 
+
+})(window,document,'script','dataLayer','GTM-NCL6N56C');</script> 
+
+
+            
+
+<!-- Google Optimize Code Snippet-->
+<script  async src="https://www.googleoptimize.com/optimize.js?id=OPT-NMRW4PS"></script>
+<!-- Google Optimize Code Snippet -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/common/globalServerSideDatalayer.isml (plugin_custom_gtm)" dwTemplateURL="http://localhost:60606/target=/plugin_custom_gtm/cartridge/templates/default/common/globalServerSideDatalayer.isml" -->
+
+
+<script>
+const encrypted_account_id = '';
+</script>
+<span
+id="pageInfo"
+data-page-info="null"
+data-page-title="Check to See if Quantum Fiber is Available at Your Address!"
+data-isoriginsbg="false">
+</span>
+ 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCL6N56C&gtm_auth=uFGQW_1dYcWsiFKmayzKAw&gtm_preview=env-44&gtm_cookies_win=x" 
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+
+
+            
+ 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGBJN5RR&gtm_auth=-XnMxiAsbQZwfGq4CmPQRg&gtm_preview=env-720&gtm_cookies_win=x" 
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+
+
+            
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "false",
+    _timeZone: "US/Mountain",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bgtm-QFCC';
+CQuotient.realm = 'BGTM';
+CQuotient.siteId = 'QFCC';
+CQuotient.instanceType = 'sbx';
+CQuotient.locale = 'default';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.apiHost='api.cquotient.com';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.useTest = ('true' === 'false');
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+<!-- Demandware Apple Pay -->
+
+<style type="text/css">ISAPPLEPAY{display:inline}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:#000;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0}.dw-apple-pay-button:after{content:"Apple Pay";visibility:hidden}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:#fff;border-color:#fff;background-image:-webkit-named-image(apple-pay-logo-black);color:#000}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:#000}
+</style>
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/schema.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default//components/schema.isml" -->
+
+
+<meta name="rqid" content="RRRRRRRRRRRRRRRR"/><link type="text/css" href="/on/demandware.static/Sites-Site/-/default/internal/css/dwux-sf-15.5.css?v=26.5.1.12" rel="stylesheet" /></head>
+<body><iframe src="/on/demandware.store/Sites-QFCC-Site/default/__SYSTEM__StorefrontToolkit-Start" width="0px" height="0px" id="DW-SFToolkit"></iframe>
+<span id="DW-SFToolkit-config" data-data="{&quot;baseURL&quot;:&quot;/on/demandware.static/Sites-Site/-/default/internal/&quot;,&quot;editURL&quot;:&quot;https://bgtm-027.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/-/&quot;,&quot;site&quot;:&quot;QFCC&quot;,&quot;cp&quot;:{&quot;serverDateTimePattern&quot;:&quot;yyyyMMddHHmm&quot;,&quot;datePattern&quot;:&quot;MM/dd/yyyy&quot;,&quot;timePattern&quot;:&quot;h:mm a&quot;}}" ></span>
+<script type="application/javascript" src="/on/demandware.static/Sites-Site/-/default/internal/jscript/dwux-init.js?v=26.5.1.12"></script>
+
+
+<div class="page" data-action="AddressChecker-Show" data-querystring="" >
+<div role="main" id="maincontent">
+<!-- dwMarker="decorator" dwTemplateTitle="/default/common/layout/buyFlowDecorator.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/common/layout/buyFlowDecorator.isml" -->
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modals/customerAttention.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modals/customerAttention.isml" -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="qf-modal modal fade" id="qfModalAttention" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Attention
+                </h5>
+                <button type="button" class="close js-btnn-close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">
+                    <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="qf-modal__secondary-header"> </div> <div class="qf-modal__secondary-text"> <p>We are excited to transition your CenturyLink internet to Quantum Fiber internet. We know you'll love the lightning-fast and superior service. </p><p>Our records indicate that there may already be CenturyLink service at this address. If you are a new customer or are an existing customer who still needs assistance, please call us at 833-250-6306. You may also close this window to chat with a member from our Success Team. We're here to help!</p> </div>
+                <strong>
+                    
+                        
+                        </br>
+                        ,
+                        
+                        
+                    
+                </strong>
+            </div>
+        
+            <div class="modal-footer">
+                <div class="btn-group"> 
+                    <a href="/s/QFCC/shop" class="change-address-btn">Change Address</a>
+                    <a href="tel:8332506306" title="Call Us" class="call-us-btn">Call us</a>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+    
+
+    
+
+    <div class="bf address-check">
+        <div class="bf__header">
+            <div class="bf-header">
+                <div class="bf-header__wrapper">
+                    <div class="bf-header__logo">
+                        <a href= https://www.quantumfiber.com/>
+                            <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__logo " title="">
+    <svg id="Logo_Artwork" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="180 168 1560 460"><!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  --><defs><style>.logo-st0 { fill: #503296; } .logo-st1 { fill: #7b8ee1; } .logo-st2 { fill: #009fdb; } .logo-st3 { fill: #00c9ff; }</style></defs><path class="logo-st0" d="M1159.5123291,211.8029938h-54.0611572v159.0660858c0,54.8219604,35.3084717,89.8910522,90.1259766,89.8910522v-54.0608215c-17.8808594,0-36.0648193-10.576355-36.0648193-32.2731323v-61.4703064h36.0648193v-54.0608215h-36.0648193v-47.0920563Z"/><path class="logo-st0" d="M609.048584,368.6523132c0,26.8818359-13.4829102,38.0493469-31.3641357,38.0493469s-31.3662109-13.8756104-31.3662109-32.2754211v-115.6138306h-54.0611572v115.6138306c0,53.7157288,30.069519,86.6047668,77.9716187,86.6047668,21.0059204,0,44.9078979-9.3120117,56.4165039-23.7556458,7.4921875,14.4436646,21.3388062,20.128479,33.5968018,20.128479h2.8674316v-198.5914001h-54.0608521v109.8399048-.0000305Z"/><path class="logo-st0" d="M966.2646484,346.6302185c0-26.8818359,13.4829102-38.0493469,31.3641357-38.0493469s31.3662109,13.8756104,31.3662109,32.2754211v115.6138306h54.0611572v-115.6138306c0-53.7157288-30.0695801-86.6047668-77.9716187-86.6047668-21.0059204,0-44.9078979,9.3120117-56.4165039,23.7556458-7.4921875-14.4436646-21.3388062-20.128479-33.5968018-20.128479h-2.8674316v198.5914001h54.0608521v-109.8399048.0000305Z"/><path class="logo-st0" d="M1335.3149414,368.6523132c0,26.8818359-13.4829102,38.0493469-31.3641357,38.0493469s-31.3662109-13.8756104-31.3662109-32.2754211v-115.6138306h-54.0611572v115.6138306c0,53.7157288,30.0695801,86.6047668,77.9716797,86.6047668,21.0058594,0,44.907959-9.3120117,56.4165039-23.7556458,7.4921875,14.4436646,21.3388672,20.128479,33.5968018,20.128479h2.8674316v-198.5914001h-54.060791v109.8399048l-.0001221-.0000305Z"/><path class="logo-st0" d="M887.0460815,257.8787231h-5.6096191c-14.9514771,0-30.2418823,7.1470947-38.4129028,18.8103333-17.444458-13.4844971-38.7289429-22.1667175-61.3678589-22.1667175-56.9345703,0-100.8201904,46.318573-100.8201904,103.2532349s43.8856201,103.2554321,100.8201904,103.2554321c23.0795898,0,44.7640991-9.0076294,62.3943481-22.9448242,8.1709595,11.6632385,22.4348755,18.3839722,37.3863525,18.3839722h5.6096191v-198.5914001l.000061-.0000305ZM835.633606,357.7755737c0,27.1268311-22.067749,49.1945801-49.1921387,49.1945801-27.1268311,0-49.1945801-22.067749-49.1945801-49.1945801,0-27.1245728,22.067749-49.1924133,49.1945801-49.1924133,27.1243896,0,49.1921387,22.0678406,49.1921387,49.1924133Z"/><path class="logo-st3" d="M411.2376099,456.4715271c-14.3695068,13.1402588-30.5979309,24.3134766-47.9580078,33.0429688,16.1282654,13.6241455,29.3680725,30.5752258,37.9802856,49.6595764l51.9682922-28.5935974c-10.5905151-20.2601013-24.9882202-38.5609741-41.9906006-54.1089783l.0000305.0000305Z"/><path class="logo-st1" d="M363.2796021,423.4284363c-19.3357239,16.3337097-42.7886963,27.8816528-67.2776184,32.657196v.7717285c24.4889221,4.7755432,47.9418945,16.3233948,67.2776184,32.6571045,17.3600769-8.7294922,33.5884705-19.90271,47.9580078-33.0429688-14.3695068-13.1402588-30.5979309-24.3135681-47.9580078-33.0430908v.0000305Z"/><path class="logo-st0" d="M331.4077759,182.8544464c-78.1074219,0-141.4077759,63.2983246-141.4077759,141.4057465,0,74.6992798,55.7034454,114.8634338,93.3959961,114.8634338,27.8060608,0,49.4328308-11.1223755,58.8644104-27.5376587-32.4385681,0-91.6286926-31.0470581-91.6349792-87.3169556.0062866-44.6097717,36.1711731-80.7710876,80.7823486-80.7710876,44.6150513,0,80.7224426,36.1676025,80.7224426,80.7826538,0,39.2417908-19.7726746,74.5844421-48.850647,99.1478882,17.3600769,8.7294922,33.5884705,19.902832,47.9580078,33.0430908,36.9413757-33.7815552,61.596344-80.5557251,61.596344-132.190979,0-78.1075287-63.3186035-141.4261169-141.4261169-141.4261169l-.0000305-.0000153Z"/><path class="logo-st0" d="M1414.5334473,456.4701233h54.060791v-109.8399048c0-26.8818359,13.4829102-38.0493469,31.3641357-38.0493469s31.3662109,13.8756104,31.3662109,32.2754211v115.6138306h54.0611572v-109.8399048c0-26.8818359,13.4829102-38.0493469,31.3637695-38.0493469,17.8812256,0,31.3665771,13.8756104,31.3665771,32.2754211v115.6138306h54.060791v-115.6138306c0-53.7157288-30.0692139-86.6047668-77.9713135-86.6047668-21.6218262,0-43.3238525,8.9647522-56.9891357,26.550415-13.5438232-17.072052-34.1014404-26.5503998-59.8023682-26.5503998-21.0058594,0-44.907959,9.3119965-56.4165039,23.755661-7.4921875-14.4436646-21.3388672-20.128479-33.5968018-20.128479h-2.8674316v198.5914001h.0001221Z"/><path class="logo-st0" d="M492.2570496,524.5309448h64.4328308v17.0643311h-45.0487366v19.2477417h44.0926208v17.0643311h-44.0926514v37.6772461h-19.3840942v-91.0535889l.0000305-.000061Z"/><path class="logo-st0" d="M587.9633789,524.5309448h19.3840942v91.0535889h-19.3840942v-91.0535889Z"/><path class="logo-st0" d="M644.8676758,524.5309448h47.9155273c17.3370361,0,26.210144,11.0580444,26.210144,23.2069702,0,11.4671021-7.097229,19.112915-15.6990967,20.887207,9.6928101,1.5015869,17.4733887,10.920105,17.4733887,22.3872681,0,13.6505127-9.145813,24.5722046-26.4828491,24.5722046h-49.4171143v-91.0536499ZM688.5512085,560.9793701c6.5532837,0,10.6489258-4.0941162,10.6489258-9.8276367s-4.0956421-9.9655762-10.6489258-9.9655762h-24.2979126v19.7932129h24.2979126ZM689.2345581,598.7929688c7.371521,0,11.7398682-3.9577026,11.7398682-10.5109863,0-5.7335815-4.0956421-10.6473999-11.7398682-10.6473999h-24.9812622v21.1583862h24.9812622Z"/><path class="logo-st0" d="M753.7655029,524.5309448h64.4328613v17.0643311h-45.0487671v19.2477417h44.0926514v17.0643311h-44.0926514v20.612915h45.0487671v17.0643311h-64.4328613v-91.0536499Z"/><path class="logo-st0" d="M886.1768188,583.2317505h-14.1975098v32.3527832h-19.3840942v-91.0535889h42.5910645c18.9749756,0,30.5784912,12.4232178,30.5784912,29.3511963,0,16.1082153-10.1019287,24.7085571-19.9310913,27.0283203l20.4765625,34.6740723h-22.2508545l-17.8825073-32.3527832h-.000061ZM892.319458,541.5952759h-20.34021v24.5722046h20.34021c7.7805786,0,13.6505127-4.6411133,13.6505127-12.2853394,0-7.645752-5.8699341-12.2868652-13.6505127-12.2868652Z"/><path class="logo-st0" d="M1715.8383789,286.5395813c-2.6035156,0-4.9857178-.6287231-7.1467285-1.8860474-2.1621094-1.2572632-3.8713379-2.9664917-5.12854-5.1285706-1.2574463-2.1610413-1.8861084-4.5433044-1.8861084-7.1468506,0-2.6470032.6286621-5.0396423,1.8861084-7.1799927,1.2572021-2.1393738,2.9664307-3.8381958,5.12854-5.09552,2.1610107-1.2573547,4.5432129-1.8859863,7.1467285-1.8859863,2.6469727,0,5.0396729.6286316,7.1800537,1.8859863,2.1394043,1.2573547,3.8381348,2.9561462,5.095459,5.09552,1.2574463,2.1403503,1.8861084,4.5329895,1.8861084,7.1799927,0,2.6035461-.6286621,4.9858398-1.8861084,7.1468506-1.2572021,2.1620789-2.9560547,3.8713074-5.095459,5.1285706-2.1403809,1.2573547-4.5330811,1.8860474-7.1800537,1.8860474ZM1715.8383789,283.3631592c2.0731201,0,3.9147949-.4735413,5.5256348-1.4227905,1.6099854-.9481201,2.8890381-2.2603149,3.8381348-3.9373779.9482422-1.6761169,1.4227295-3.5506897,1.4227295-5.6248779,0-2.1176453-.4744873-4.0036316-1.4227295-5.6579895-.9492188-1.6543884-2.2282715-2.9551086-3.8381348-3.9043579-1.6109619-.9481201-3.4525146-1.422699-5.5256348-1.422699-2.0296631,0-3.8608398.4745789-5.4924316,1.422699-1.6326904.9492493-2.9230957,2.2499695-3.8713379,3.9043579-.9492188,1.6543884-1.4227295,3.5403442-1.4227295,5.6579895,0,2.0741882.4735107,3.9487915,1.4227295,5.6248779.9482422,1.677063,2.2385254,2.9892578,3.8713379,3.9373779,1.6315918.9492493,3.4627686,1.4227905,5.4924316,1.4227905ZM1710.8752441,278.730896v-13.3673401h4.5661621c1.8083496,0,3.2197266.3866882,4.2351074,1.1580505,1.0144043.7723389,1.5220947,1.8642578,1.5220947,3.2756348,0,1.941803-.7724609,3.2870178-2.3161621,4.0366516l3.0440674,4.8969727h-3.375l-2.4484863-4.2352295h-2.1838379v4.2352295h-3.0440674l.0001221.0000305ZM1715.5075684,268.1428833h-1.5881348v3.5734863h1.5881348c1.6317139,0,2.4486084-.6173096,2.4486084-1.8529358,0-1.1466675-.8168945-1.7205505-2.4486084-1.7205505Z"/><path class="logo-st2" d="M1049.1469727,615.5842896v-53.21698h-11.838501v-15.4824829h11.838501v-2.604126c0-8.4107666,2.4945068-15.1121826,7.4835205-20.1011963,4.9830322-4.9890137,11.6429443-7.4835205,19.9678955-7.4835205,6.1622314,0,11.7969971,1.3479614,16.9163818,4.0350342l-3.644043,14.1819458c-3.644043-1.2146606-7.3294678-1.8220215-11.0563965-1.8220215-3.300293,0-5.8363037.9984131-7.6138916,2.9921875-1.7775879,1.9967651-2.6663818,4.7727051-2.6663818,8.3278198v2.4737549h19.387207v15.4824829h-19.387207v53.21698h-19.387207l.0001221.0001221Z"/><path class="logo-st2" d="M1144.6489258,563.2767944c-2.1685791-.343689-4.3786621-.5184326-6.6362305-.5184326-5.5518799,0-10.8845215,1.5168457-16.0039062,4.5535278v48.2724609h-19.387207v-68.6994629h16.9163818l1.3035889,7.4153442c6.2451172-5.984436,13.3138428-8.9766235,21.2061768-8.9766235,1.564209,0,3.2114258.2162476,4.9475098.6488037l-2.3463135,17.3045044v-.0001221Z"/><path class="logo-st2" d="M1222.8494873,581.2330322c0,7.1131592-1.5405273,13.402771-4.621582,18.8687134-3.0810547,5.4630127-7.2642822,9.6728516-12.5554199,12.6206055s-11.2756348,4.4231567-17.9532471,4.4231567c-7.0272217,0-13.2072754-1.5820312-18.5457764-4.7490234-5.3326416-3.1640625-9.4328613-7.4597778-12.2947998-12.8813477-2.8618164-5.4215088-4.2957764-11.515564-4.2957764-18.2821655,0-7.1102295,1.5405273-13.3997803,4.621582-18.8657837s7.2642822-9.6699219,12.5554199-12.6206055c5.2911377-2.9477539,11.2756348-4.4231567,17.9592285-4.4231567,7.0213623,0,13.2012939,1.5820312,18.539917,4.7490234,5.3326416,3.1669922,9.4328613,7.4597778,12.2947998,12.8813477,2.8618164,5.4215088,4.2957764,11.515564,4.2957764,18.2791748l-.0001221.000061ZM1203.2015381,581.2330322c0-5.8955688-1.4338379-10.6238403-4.2957764-14.1818848-2.8618164-3.5551147-6.5947266-5.3356323-11.1867676-5.3356323-4.6038818,0-8.3308105,1.7805176-11.192627,5.3356323-2.8618164,3.5580444-4.2957764,8.286377-4.2957764,14.1818848,0,5.9014893,1.4338379,10.6268311,4.2957764,14.1848755,2.8618164,3.5551147,6.5887451,5.3326416,11.192627,5.3326416,4.592041,0,8.3248291-1.7775269,11.1867676-5.3326416,2.8618164-3.5580444,4.2957764-8.2833862,4.2957764-14.1848755Z"/><path class="logo-st2" d="M1238.9777832,615.5842896v-68.6994629h16.9163818l1.3035889,7.1546631c3.2055664-2.9477539,6.5058594-5.1400757,9.8891602-6.5710449,3.3833008-1.4309082,7.0687256-2.1448975,11.0563965-2.1448975,4.0765381,0,7.6790771.9094849,10.8016357,2.7315063s5.5933838,4.4675903,7.418335,7.9367676c3.8988037-3.7299194,7.7382812-6.4406738,11.5125732-8.1323242s7.7442627-2.5359497,11.9036865-2.5359497c6.8554688,0,12.211792,2.4056396,16.0690918,7.2198486,3.8631592,4.814209,5.7947998,11.5599976,5.7947998,20.2344971v42.8064575h-19.387207v-41.6362305c0-7.8063965-3.3833008-11.7111206-10.1497803-11.7111206-3.9935303,0-8.1589355,1.7805176-12.4902344,5.3356323.2547607,1.6472168.3851318,3.3833008.3851318,5.2052612v42.8064575h-19.387207v-41.6362305c0-7.8063965-3.3833008-11.7111206-10.1439209-11.7111206-3.9046631,0-7.9396973,1.6916504-12.1051025,5.0748901v48.2724609h-19.387207l-.0001221-.000061Z"/><path class="logo-st2" d="M1412.4196777,524.5024414h20.5604248l33.9571533,91.0818481h-22.1186523l-5.7237549-17.9562378h-33.0506592l-5.7237549,17.9562378h-21.8580322l33.9571533-91.0818481h.0001221ZM1411.5072021,580.3235474h21.9882812l-10.9260254-34.6119385-11.0622559,34.6119385Z"/><path class="logo-st2" d="M1491.7873535,542.7193604h-27.0603027v-18.21698h74.5565186v18.21698h-27.0661621v72.8648682h-20.4300537v-72.8648682Z"/><path class="logo-st2" d="M1574.4140625,617.1455688c-8.9351807,0-16.157959-2.2960205-21.6624756-6.8969116-5.510376-4.5949707-8.265625-10.5823975-8.265625-17.9562378,0-5.2023315,1.6293945-9.9720459,4.8823242-14.3122559,3.2529297-4.3342896,7.9575195-8.1085815,14.1137695-11.3200684-3.6380615-4.0765381-6.2214355-7.7175293-7.7382812-10.9290161-1.5168457-3.2084961-2.2752686-6.5058594-2.2752686-9.8890991,0-4.5949707,1.1672363-8.6300049,3.5136719-12.0992432,2.3404541-3.4691772,5.5460205-6.135498,9.628418-8.0019531,4.0705566-1.8664551,8.6685791-2.7996216,13.7878418-2.7996216,8.1530762,0,14.6411133,1.9523315,19.4523926,5.8570557,4.8171387,3.9017334,7.2227783,9.1069946,7.2227783,15.612854,0,8.9351807-6.4228516,16.7860107-19.2568359,23.5526123l13.5330811,14.442627c.6932373-1.1287231,1.362793-2.2337646,2.0145264-3.3181152.6517334-1.0842896,1.2797852-2.1893311,1.8901367-3.3181152l4.8112793-8.9796143h18.0836182l-8.1945801,14.7033081c-2.4293213,4.34021-4.8171387,8.286377-7.1575928,11.8414917l20.951416,22.2490234h-23.0311279l-9.1070557-9.628418c-3.644043,3.8187866-7.6612549,6.6361694-12.039917,8.4581909s-9.4328613,2.7315063-15.1566162,2.7315063h.0001221ZM1576.8847656,601.9208374c5.4689941,0,10.0195312-2.1242065,13.6634521-6.3754883l-17.5622559-18.8657837c-3.300293,2.2575073-5.6644287,4.4675903-7.0924072,6.6362305-1.4338379,2.1686401-2.1508789,4.5120239-2.1508789,7.0272827,0,3.4691772,1.2147217,6.2658691,3.644043,8.3900757,2.4293213,2.1271362,5.5992432,3.1877441,9.4980469,3.1877441v-.000061ZM1571.2915039,545.1931763c0,1.9967651.5213623,3.9017334,1.564209,5.7236938,1.0368652,1.8220215,2.9448242,4.2927856,5.7237549,7.418335,3.7269287-2.3433838,6.4406738-4.5327759,8.1293945-6.5710449,1.6945801-2.038269,2.5418701-4.1861572,2.5418701-6.4406738,0-2.3433838-.7821045-4.2957764-2.3463135-5.8570557-1.5583496-1.5612793-3.644043-2.3404541-6.2451172-2.3404541-2.7789307,0-5.0305176.7584229-6.7666016,2.2752686-1.736084,1.5198364-2.6011963,3.4484253-2.6011963,5.7918701v.000061Z"/><path class="logo-st2" d="M1654.6942139,542.7193604h-27.0603027v-18.21698h74.5565186v18.21698h-27.0661621v72.8648682h-20.4300537v-72.8648682Z"/></svg>
+</div>
+
+                        </a>
+                    </div>
+                    <div class="bf-header__headline">
+                        
+                            <!-- dwMarker="slot" dwContentID="address-check__headline" dwContext="global"-->
+	 
+
+
+	<!-- dwMarker="linclude" dwTemplateTitle="/default/slots/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/htmlSlotContainer.isml" -->
+<!-- dwMarker="dw-object-rinclude" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml&quot;,&quot;IsController&quot;:false,&quot;PageProcessingTime&quot;:5,&quot;TemplateTitle&quot;:&quot;/default/slots/html/htmlSlotContainer.isml (app_storefront_base)&quot;,&quot;PipelineTitle&quot;:&quot;Internal&quot;}" --><!-- dwMarker="rinclude" dwPipelineTitle="Internal" dwIsController="false" dwTemplateTitle="/default/slots/html/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml" --><div class="html-slot-container">
+    
+        
+            <span class="qf-headline">Great! Let’s get started</span>
+        
+    
+</div>
+
+ 
+	
+                        
+                    </div>
+                    <div class="bf-header__cta"></div>
+                </div>
+                <div class="bf-header__instructional"></div>
+            </div>
+        </div>
+        <form method="POST" action="/on/demandware.store/Sites-QFCC-Site/default/AddressChecker-GetServiceability" id="address-form"
+            data-addressesbyvariantaddress-url="/on/demandware.store/Sites-QFCC-Site/default/AddressChecker-AddressesByVariantAddress"
+            data-typeahead-url="/on/demandware.store/Sites-QFCC-Site/default/AddressChecker-TypeAhead" data-getmduunits-url="/on/demandware.store/Sites-QFCC-Site/default/AddressChecker-GetMDUUnits"
+            data-typeahead-initcharcount="6" data-typeahead-o2incrementcount="2" autocomplete="off"><!-- dwMarker="form" dwPipelineTitle="AddressChecker-GetServiceability (app_custom_telco)" dwIsController="true" dwPipelineURL="http://localhost:60606/target=/app_custom_telco/cartridge/controllers/AddressChecker.js&amp;start=GetServiceability" -->
+            <div class="bf__main">
+                <div class="qf-grid">
+                    <div class="qf-grid__container qf-grid__single">
+                        <div class="row">
+                            <!-- dwMarker="linclude" dwTemplateTitle="/default//components/content/contentAsset.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default//components/content/contentAsset.isml" -->
+
+    
+    <!-- dwMarker="dw-object-rinclude" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/components/content/contentAssetInc.isml&quot;,&quot;IsController&quot;:true,&quot;PipelineURL&quot;:&quot;http://localhost:60606/target=/app_custom_telco/cartridge/controllers/Page.js&amp;start=Include&quot;,&quot;PageProcessingTime&quot;:8,&quot;PageCacheExpires&quot;:&quot;05/15/2026 12:41 am&quot;,&quot;TemplateTitle&quot;:&quot;/default/components/content/contentAssetInc.isml (app_storefront_base)&quot;,&quot;PipelineTitle&quot;:&quot;Page-Include (app_custom_telco)&quot;}" --><!-- dwMarker="rinclude" dwPipelineTitle="Page-Include (app_custom_telco)" dwPipelineURL="http://localhost:60606/target=/app_custom_telco/cartridge/controllers/Page.js&amp;start=Include" dwIsController="true" dwTemplateTitle="/default/components/content/contentAssetInc.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/components/content/contentAssetInc.isml" --><div class="content-asset">
+        <div class="col-12">
+    <span class="address-check__form-text">Check availability </span>
+</div>
+<div class="col-12">
+    <span class="address-check__form-instuct">Enter your address to check availability.</span>
+</div>
+    </div>
+
+
+
+                        </div>
+
+                        
+                            
+                            <div class="row address-check__forms-wrapper o2-address-checker">
+                                <div id="js-serviceAddress-wrapper" class="form-group required col-12 col-sm-8" data-url="/on/demandware.store/Sites-QFCC-Site/default/AddressChecker-GetServiceability">
+                                    <div class="form-control-animation">
+                                        <input
+                                            id="o2check"
+                                            data-transfer="false"
+                                            class="form-control"
+                                            type="text"
+                                            placeholder=""
+                                            aria-describedby="o2-address-error"
+                                            name="dwfrm_addressChecker_o2check" required aria-required="true" value="" maxLength="2147483647"
+                                        />
+                                        <label class="form-control-label" for="serviceAddress">
+                                            My street address
+                                        </label>
+                                        
+                                    </div>
+                                </div>
+                                <div class="form-group
+                                     col-12 col-sm-4">
+                                    
+                                    <div id="o2-unit-select-container">
+                                        <label for="o2UnitsOptions" class="required-field mdu-label">
+                                            Select or enter unit
+                                        </label>
+                                        <select id="o2UnitsOptions" class="o2-align-checker" name="o2_units">
+                                            <option value=""></option>
+                                        </select>
+                                    </div>
+                                    
+                                    <div id = "o2-unit-input-container" class="form-control-animation">
+                                        <input
+                                            id="o2UnitNumber"
+                                            type="text"
+                                            class="form-control"
+                                            placeholder=" "
+                                            aria-describedby="o2UnitNumber"
+                                            maxlength="30"
+                                            
+                                            name="dwfrm_addressChecker_unitNumber" value="" maxLength="50"
+                                            />
+                                        <label class="form-control-label o2-unit-number-label" for="o2UnitNumber">
+                                            Select or enter unit
+                                        </label>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        
+                        <div class="bf__agreement">
+                            
+
+                            
+                            
+
+                            <div class="agreement-description">
+                                <!-- dwMarker="slot" dwContentID="address-check__agreement-description" dwContext="global"-->
+	 
+
+
+	<!-- dwMarker="linclude" dwTemplateTitle="/default/slots/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/htmlSlotContainer.isml" -->
+<!-- dwMarker="dw-object-rinclude" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml&quot;,&quot;IsController&quot;:false,&quot;PageProcessingTime&quot;:2,&quot;TemplateTitle&quot;:&quot;/default/slots/html/htmlSlotContainer.isml (app_storefront_base)&quot;,&quot;PipelineTitle&quot;:&quot;Internal&quot;}" --><!-- dwMarker="rinclude" dwPipelineTitle="Internal" dwIsController="false" dwTemplateTitle="/default/slots/html/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml" --><div class="html-slot-container">
+    
+        
+            <div class="icon__span icon__bm_warning">Have you heard? CenturyLink is transforming into Quantum Fiber! Moving your services to Quantum Fiber or making any changes to your current CenturyLink service(s) will remove any bundle discounts, promotional pricing, credits, or Price for Life offer. If you’d like to move forward with fiber internet, which does not currently offer bundle discounts, click “Check Availability”. If you currently have CenturyLink phone service, one of our agents will contact you to review available Quantum Fiber voice options after your Quantum Fiber internet order is placed.</div>
+        
+    
+</div>
+
+ 
+	
+                            </div>
+                        </div>
+                         <div class="row form-row-last">
+                            <div class="col-12 text-top">
+                                <a href="javascript:void(0)" id="address-check__tooltip" data-container="body" data-toggle="popover" data-placement="top" class="form-instructional info-icon__click">
+                                    <span id="address-check__tooltip-text" class="d-none">
+                                        <!-- dwMarker="slot" dwContentID="address-check__tooltip" dwContext="global"-->
+	 
+
+
+	<!-- dwMarker="linclude" dwTemplateTitle="/default/slots/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/htmlSlotContainer.isml" -->
+<!-- dwMarker="dw-object-rinclude" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml&quot;,&quot;IsController&quot;:false,&quot;PageProcessingTime&quot;:2,&quot;TemplateTitle&quot;:&quot;/default/slots/html/htmlSlotContainer.isml (app_storefront_base)&quot;,&quot;PipelineTitle&quot;:&quot;Internal&quot;}" --><!-- dwMarker="rinclude" dwPipelineTitle="Internal" dwIsController="false" dwTemplateTitle="/default/slots/html/htmlSlotContainer.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default/slots/html/htmlSlotContainer.isml" --><div class="html-slot-container">
+    
+        
+            We need your address to determine if we provide service to your exact location. Also, Internet speeds, pricing and services often differ from location to location. Quantum Fiber may use the address you entered to send you information customized to your area.
+        
+    
+</div>
+
+ 
+	
+                                    </span>
+                                    Why do you need my address?
+                                </a>
+                            </div>
+                            
+                                
+                                    <div class="col-7 text-left">
+                                        <a href="https://login.quantumfiber.com/QuantumFiber/s/login/" class="address-check__sign-link">Already a Quantum Fiber customer? Sign In</a>
+                                    </div>
+                                
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="bf__main_gap"></div>
+            </div>
+
+            <div class="bf__btns">
+                <div class="btn-group">
+                    <a id="addresscheck__back" href="" class="qf-btn qf-btn-secondary">Back</a>
+                    <button disabled id="adresscheck-submit" type="submit" class="qf-btn qf-btn-primary-action">Check availability</button>
+                </div>
+            </div>
+
+            <!-- dwMarker="linclude" dwTemplateTitle="/default/components/modals/prepurchase.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modals/prepurchase.isml" -->
+<div class="qf-modal modal fade" id="qfModalPurchase" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Purchase now
+                </h5>
+                <button type="button" class="close js-btn-close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">
+                    <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="qf-modal__secondary-header"> <span>Quantum Fiber is bringing Fiber Internet to your neighborhood</span> </div> <div class="qf-modal__secondary-text"> <p>Fiber Internet is scheduled to be available at your address <strong>soon</span>.</strong></p> <p>To be one of the first customers to reserve your spot for Fiber Internet, select <strong>"Purchase now."</strong></p> </div>
+            </div>
+            <div class="modal-footer qf-modal__btns">
+                <div class="btn-group">
+                    <button type="button" class="qf-btn qf-btn-primary-action js-btn-purchase">Purchase now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- dwMarker="linclude" dwTemplateTitle="/default/components/modals/letmeknow.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modals/letmeknow.isml" -->
+<div class="qf-modal modal fade" id="qfModalKnow" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <!-- dwMarker="content" dwContentID="075eabc8759142a4c1a6a5a5b4" -->
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Let me know
+                </h5>
+                <button type="button" class="close js-lmk-btn-close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">
+                    <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="qf-modal__secondary-header">
+     <span>Quantum Fiber is bringing Fiber Internet to your neighborhood</span>
+</div>
+<div class="qf-modal__secondary-text">
+     <p>Fiber Internet is scheduled to be available at your address on <strong>soon.</strong>.</p>
+     <p>To be notified when Fiber Internet is available, or if you would like to see products that may be available now, select <strong>"Let me know."</strong></p>
+</div>
+            </div>
+            <div class="modal-footer qf-modal__btns">
+                <div class="btn-group">
+                <a href="/s/QFCC/shop/notifyme" class="qf-btn qf-btn-primary-action">Let me know</a>
+                </div>
+            </div>
+            <!-- END_dwmarker -->
+        </div>
+    </div>
+</div>
+
+            <input id="sessionIdForQM" name="sessionIdForQM" hidden value="w6JvxUg3_k"/>
+            <input id="long" hidden name="dwfrm_addressChecker_long" value="" maxLength="100" />
+            <input id="lat" hidden name="dwfrm_addressChecker_lat" value="" maxLength="100" />
+            <input id="streetnumber" hidden name="dwfrm_addressChecker_streetnumber" value="" maxLength="100" />
+            <input id="street" hidden value="" name="dwfrm_addressChecker_street"/>
+            <input id="city" hidden value="" name="dwfrm_addressChecker_city" />
+            
+                <input id="stateCode" hidden name="dwfrm_addressChecker_states_stateCode" />
+            
+            <input id="stateCodeLong" hidden value="" name="dwfrm_addressChecker_stateCodeLong" />
+            <input id="zipcode" value="" hidden name="dwfrm_addressChecker_zipcode" />
+            <input id="predirection" hidden value="" name="dwfrm_addressChecker_predirection" />
+            <input id="postdirection" value="" hidden name="dwfrm_addressChecker_postdirection" />
+            <input id="afstreetname" hidden value="" name="dwfrm_addressChecker_afstreetname" />
+            <input id="afstreetsuffix" hidden value="" name="dwfrm_addressChecker_afstreetsuffix" />
+            <input id="countrycode" hidden value="" name="dwfrm_addressChecker_countrycode" value="" maxLength="10" />
+            <input id="addressGoogleFormatted" hidden name="dwfrm_addressChecker_addressGoogleFormatted" value="" maxLength="100" />
+            <input id="isRooftop" hidden name="dwfrm_addressChecker_isRooftop" value="" maxLength="10" />
+            <input id="mdu" hidden name="dwfrm_addressChecker_mdu" value="" maxLength="100" />
+            <input id="addressId" hidden name="dwfrm_addressChecker_addressId" value="" maxLength="100" />
+            <input id="o2_units" hidden name="dwfrm_addressChecker_o2__units" value="" maxLength="100" />
+            <input id="addressKey" hidden name="dwfrm_addressChecker_addressKey" value="" maxLength="100" />
+            <input type="hidden" name="csrf_token" value="eeu5m153hXM1-u4iLeBtz-Aqlv9117eYXXyfxQuw6VNOkvnt0nFCkKkwyWU6Xj3w0wOQiABJQu8vLfZgjHOOXAb6EZ0LTcRimnUKCr_we092HaHa_AliGMqeRBoFHUCA8WYWYo5AcHx-sbZJIWUG_8VBaVcEIwcSO8rLsD0pxNYiBEV_aIw="/>
+            <input id="instantWifi" hidden name="null" value="null" />
+            <input id="propertyId" hidden value="" name="dwfrm_addressChecker_propertyId" /> 
+            <input id="workType" hidden value="" name="dwfrm_addressChecker_workType" />
+            <input id="salescode" hidden name="salescode" encoding="off" />
+            <input id="o2unitsKeyedIn" hidden name="o2unitsKeyedIn" encoding="off" />
+            <input id="geo_type" hidden name="geo_type" encoding="off" />
+            <input id="baseAddr" hidden  />
+        </form>
+
+        
+        
+                <script>
+                    function  o2Response(response) {
+                        const event = new CustomEvent('o2Event', {detail: {'response':response}});
+                        document.dispatchEvent(event);
+                    }
+                    function  o2VariantResponse(response) {
+                        const eventVariant = new CustomEvent('o2EventVariant', {detail: {'response':response}});
+                        document.dispatchEvent(eventVariant);
+                    }
+                    function openDropdown(elementId) {
+                        function down() {
+                            var pos = $(this).offset();
+                            var len = $(this).find("option").length;
+                            if(len > 20) {
+                                len = 20;
+                            }
+
+                            $(this).css("position", "absolute");
+                            $(this).css("zIndex", 9999);
+                            $(this).offset(pos);
+                            $(this).attr("size", len);
+                            $(this).unbind("focus", down);
+                            $(this).focus();
+                        }
+                        function up() {
+                            $(this).css("position", "static");
+                            $(this).attr("size", "1");
+                            $(this).unbind("change", up);
+                            $(this).focus();
+                        }
+                        $("#" + elementId).focus(down).blur(up).focus();
+                    }
+
+                    function mduResponse(response) {
+                        const event = new CustomEvent('mduEvent', {detail: {'response':response}});
+                        document.dispatchEvent(event);
+                        openDropdown('o2UnitsOptions');
+                        $('#o2UnitsOptions').on('change', function() {
+                            $(this).blur();
+                        });
+                    }
+                </script>
+        
+        <div id="o2AppendScript"></div>
+    </div>
+
+</div>
+</div>
+<div class="error-messaging"></div>
+<div class="modal-background"></div>
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/content/contentAsset.isml (app_storefront_base)" dwTemplateURL="http://localhost:60606/target=/app_storefront_base/cartridge/templates/default//components/content/contentAsset.isml" -->
+
+
+
+<!--[if lt IE 10]>
+<script>//common/scripts.isml</script>
+<script defer type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/js/main.js"></script>
+
+    
+        <script defer type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/js/addressChecker.js"
+            
+            >
+        </script>
+    
+
+
+<![endif]-->
+
+
+<!-- dwMarker="dw-object-rinclude" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//common/consent.isml&quot;,&quot;IsController&quot;:true,&quot;PipelineURL&quot;:&quot;http://localhost:60606/target=/app_custom_telco/cartridge/controllers/ConsentTracking.js&amp;start=Check&quot;,&quot;PageProcessingTime&quot;:3,&quot;TemplateTitle&quot;:&quot;/default//common/consent.isml (app_custom_telco)&quot;,&quot;PipelineTitle&quot;:&quot;ConsentTracking-Check (app_custom_telco)&quot;}" --><!-- dwMarker="rinclude" dwPipelineTitle="ConsentTracking-Check (app_custom_telco)" dwPipelineURL="http://localhost:60606/target=/app_custom_telco/cartridge/controllers/ConsentTracking.js&amp;start=Check" dwIsController="true" dwTemplateTitle="/default//common/consent.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//common/consent.isml" --><span class="PLATFORM_CONSENT_TRACKING_DISABLED"></span>
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/modals/timeExpired.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//components/modals/timeExpired.isml" -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="qf-modal modal fade" id="qfModalTimeExpired" tabindex="-1" role="dialog" aria-hidden="true"
+    data-appointment-expired-time="1800000"
+    data-redirect-url="/s/QFCC/shop/install" data-validatesession-url="/on/demandware.store/Sites-QFCC-Site/default/Appointment-ValidateSession">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <!-- dwMarker="content" dwContentID="e6c71d4590672ae96d17a192be" -->
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Time Expired
+                </h5>
+                <a href="/s/QFCC/shop/install" class="close" aria-label="Close">
+                <span aria-hidden="true">
+                    <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                </span>
+                </a>
+            </div>
+            <div class="modal-body">
+             <div class="qf-modal__secondary-header">
+    <span>Appointment times are held for 30 minutes.</span>
+</div>
+<div class="qf-modal__secondary-text">
+    <p>We can only hold time slots for appointments for 30 minutes at a time. Please select a new timeslot for your appointment.</p>
+</div>
+            </div>
+            <div class="modal-footer qf-modal__btns">
+                <div class="btn-group">
+                    <a href="/s/QFCC/shop/install" class="qf-btn qf-btn-primary-action">Select New Time</a>
+                </div>
+            </div>
+            <!-- END_dwmarker -->
+        </div>
+    </div>
+</div>
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/modals/sessionExpired.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//components/modals/sessionExpired.isml" -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="qf-modal modal fade" id="qfModalSessionExpired" tabindex="-1" role="dialog" aria-hidden="true" data-redirect-url="/s/QFCC/shop">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <!-- dwMarker="content" dwContentID="f032830a173cf690f6bcd6b2e8" -->
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Session Expired
+                </h5>
+                <a href="/s/QFCC/shop" class="close" aria-label="Close">
+                <span aria-hidden="true">
+                    <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                </span>
+                </a>
+            </div>
+            <div class="modal-body">
+             <div class="qf-modal__secondary-header">
+    <span>Oops! It looks like your session has expired.</span>
+</div>
+<div class="qf-modal__secondary-text">
+    <p>We apologize for the inconvenience, but we’ll take you to the beginning so you can make your selections again.</p>
+</div>
+            </div>
+            <div class="modal-footer qf-modal__btns">
+                <div class="btn-group">
+                    <a href="/s/QFCC/shop" class="qf-btn qf-btn-primary-action">Continue</a>
+                </div>
+            </div>
+            <!-- END_dwmarker -->
+        </div>
+    </div>
+</div>
+
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/modals/failedToLoad.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//components/modals/failedToLoad.isml" -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="qf-modal modal fade" id="qf-modal-error" tabindex="-1" role="dialog" aria-hidden="true" data-failed-to-load-timeout="70000">
+    
+        
+    
+    
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="qf-modal__error modal-content">
+                <div class="modal-header">
+                    <div class="modal-title">
+                        Failed to Load
+                    </div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">
+                            <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                        </span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="qf-modal__secondary-header">
+	<div class="icon icon__warning ">
+		<svg viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M0 20.6572H20L10 0.657227L0 20.6572ZM10.9091 17.4993H9.09091V15.3941H10.9091V17.4993ZM10.9091 13.2888H9.09091V9.07828H10.9091V13.2888Z" fill="#FFB464"></path>
+		</svg>
+	</div>
+	<span>Looks like we ran into a problem.</span>
+</div>
+<div class="qf-modal__secondary-text">
+	<span>While trying to load the experience for you, we ran into an issue. Please verify your connection and refresh the page to try again. Additionally, please review that all required fields are provided and resubmit your order.</span>
+</div> 
+                </div>
+                <div class="modal-footer qf-modal__btns">
+                    <div class="qf-modal__error-message">
+                        
+                    </div>
+                    <div class="btn-group">                             
+                        <button type="button" class="qf-btn qf-btn-secondary js-back-btn" data-dismiss="modal">Back</button>
+                        <button type="button" class="qf-btn qf-btn-primary-action js-refresh-btn">Refresh Page</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="qf-modal-error-dummy" class="d-none"></div>
+    
+</div>
+<!-- dwMarker="linclude" dwTemplateTitle="/default//components/modals/promoDetails.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default//components/modals/promoDetails.isml" -->
+<!-- dwMarker="linclude" dwTemplateTitle="/default/components/modules.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/modules.isml" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="qf-modal modal fade" id="qfModalPromoDetails" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="qf-modal__error modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Amazon Fire TV Stick Offer
+                </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">
+                        <!-- dwMarker="linclude" dwTemplateTitle="/default/components/icon.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/components/icon.isml" -->
+
+
+<div
+    class="icon icon__close " title="Close">
+    <svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.1428 10L19.3493 3.79362C20.2169 2.92572 20.2169 1.51882 19.3493 0.650922C18.4811 -0.216974 17.0744 -0.216974 16.2063 0.650922L9.99988 6.8573L3.7937 0.650922C2.92556 -0.216974 1.51864 -0.216974 0.650741 0.650922C-0.216914 1.51882 -0.216914 2.92572 0.650741 3.79362L6.85716 10L0.650741 16.2064C-0.216914 17.0743 -0.216914 18.4812 0.650741 19.3491C1.51889 20.217 2.92556 20.217 3.7937 19.3491L9.99988 13.1429L16.2063 19.3491C17.0742 20.217 18.4811 20.217 19.3493 19.3491C20.2169 18.4812 20.2169 17.0743 19.3493 16.2064L13.1428 10Z" fill="#788791"/></svg>
+</div>
+
+                    </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="qf-modal__secondary-text" id="qf-modal__promoDetails">
+    <p>
+      Limited time offer is available through Amazon.com.  Offer requires new, qualifying residential Quantum Fiber customers to sign up for a qualifying up to 940 Mbps Internet service plan to be eligible for an Amazon Fire TV Stick 4K Max (“Device”), valued at $54.99. One Device per customer/account. Customer will be sent an email, after the order is completed, with instructions on how to redeem offer.  Offer must be redeemed within 14 days of the date on the redemption email to receive Device. Customer must have a free Amazon account to redeem offer.  Device is provided as-is, without any warranties or guarantees beyond the manufacturer standard warranty. Subscriptions will apply to certain third-party streaming and gaming services in order to access. Offer is not stackable with other Quantum Fiber offers. Quantum Fiber may change, cancel, or substitute offers and services, or vary them by service area, at its sole discretion without notice.  Additional restrictions may apply.
+    </p>
+      <img  class="promoDetails-image" alt="img"  width="303" height="260" src="https://bgtm-027.dx.commercecloud.salesforce.com/on/demandware.static/-/Sites-QFCC-Library/default/dwc17cd784/telco/modals/promoDetailsImage.png"  />
+    </div>
+    
+    
+    
+    <style>
+    #qf-modal__promoDetails .promoDetails-image {
+      margin: 0 auto;
+      display: block;
+    }
+#qf-modal__promoDetails a {cursor: default}
+    
+    .qf-modal__secondary-heade-text {
+          margin-left:7px;
+    }
+    
+    
+    @media only screen and (min-width: 768px) {
+      #qf-modal__promoDetails {
+        display: flex;
+                    overflow-y: scroll;
+                    height: 330px;
+      }
+      #qf-modal__promoDetails p {
+        padding-right: 38px;
+      }
+    }
+    </style>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://bgtm-027.dx.commercecloud.salesforce.com/on/demandware.store/Sites-QFCC-Site/default/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/internal/jscript/dwanalytics-22.2.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/internal/jscript/dwac-21.7.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+<!-- Demandware Apple Pay -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+if (!window.dw) dw = {};
+dw.applepay = {"action":{"cancel":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-Cancel","getRequest":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-GetRequest","onshippingcontactselected":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-ShippingContactSelected","onpaymentmethodselected":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-PaymentMethodSelected","onvalidatemerchant":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-ValidateMerchant","onpaymentauthorized":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-PaymentAuthorized","prepareBasket":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-PrepareBasket","onshippingmethodselected":"https:\/\/bgtm-027.dx.commercecloud.salesforce.com\/on\/demandware.store\/Sites-QFCC-Site\/default\/__SYSTEM__ApplePay-ShippingMethodSelected"},"inject":{"directives":[{"css":"dw-apple-pay-button","query":"ISAPPLEPAY","action":"replace","copy":true},{"css":"dw-apple-pay-button dw-apple-pay-mini-cart ","query":".mini-cart-totals","action":"append"},{"css":"dw-apple-pay-button dw-apple-pay-cart ","query":"button[name=dwfrm_cart_checkoutCart]","action":"after","style":{"ref":"this","attr":["width","margin"]}}]}};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-QFCC-Site/-/default/v1778681644111/internal/jscript/applepay.js" async="true"></script>
+</body>
+</html>
+
+<!-- dwMarker="dw-object-page" data="{&quot;TemplateURL&quot;:&quot;http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/addressChecker/addressChecker.isml&quot;,&quot;IsController&quot;:true,&quot;PipelineURL&quot;:&quot;http://localhost:60606/target=/app_custom_telco/cartridge/controllers/AddressChecker.js&amp;start=Show&quot;,&quot;PageProcessingTime&quot;:149,&quot;TemplateTitle&quot;:&quot;/default/addressChecker/addressChecker.isml (app_custom_telco)&quot;,&quot;PipelineTitle&quot;:&quot;AddressChecker-Show (app_custom_telco)&quot;}" --><!-- dwMarker="page" dwPipelineTitle="AddressChecker-Show (app_custom_telco)" dwPipelineURL="http://localhost:60606/target=/app_custom_telco/cartridge/controllers/AddressChecker.js&amp;start=Show" dwIsController="true" dwTemplateTitle="/default/addressChecker/addressChecker.isml (app_custom_telco)" dwTemplateURL="http://localhost:60606/target=/app_custom_telco/cartridge/templates/default/addressChecker/addressChecker.isml" -->
